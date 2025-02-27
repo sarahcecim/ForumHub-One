@@ -22,9 +22,6 @@ Mais um desafio do programa ONE, um programa com parceria entre Alura e Oracle p
 -  Autenticação do usuário por meio de token e;
 -  Tratamento do código http.
 
-Para entender melhor, veja como funciona as operacoes CRUD do fórum e o tratamentos dos codigos http
-**[clicando aqui](https://vimeo.com/981529617)**
-
 
 ## Tecnologias utilizadas
 -  `Java 17`: Versão do Java utilizado
